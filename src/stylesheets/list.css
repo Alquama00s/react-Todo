@@ -1,0 +1,14 @@
+.list {
+    background-color: #133337;
+    color: white;
+    margin: 5px;
+    height: 2cm;
+    font-size: x-large;
+    font-weight: bold;
+    /*centring text*/
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    /**/
+}
